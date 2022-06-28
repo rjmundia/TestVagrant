@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RBC Test case suit" verbose="1">
+    <test name="RBC Test case">
+        <classes>
+            <class name="com.testvagrant.rcbtest.RCBTest"/>
+        </classes>
+    </test>
+</suite>
